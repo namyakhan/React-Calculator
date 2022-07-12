@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/namyakhan/React-Calculator.git/static/css/main.c2b3e3d6.css",
+    "main.js": "/namyakhan/React-Calculator.git/static/js/main.56a4156a.js",
+    "index.html": "/namyakhan/React-Calculator.git/index.html",
+    "main.c2b3e3d6.css.map": "/namyakhan/React-Calculator.git/static/css/main.c2b3e3d6.css.map",
+    "main.56a4156a.js.map": "/namyakhan/React-Calculator.git/static/js/main.56a4156a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2b3e3d6.css",
+    "static/js/main.56a4156a.js"
+  ]
+}
